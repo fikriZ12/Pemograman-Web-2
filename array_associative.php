@@ -1,4 +1,4 @@
-<?php
+<?php include 'atas.php'; 
 
 $animals = ["k"=>"kucing","a"=>"ayam","b"=>"banteng", "i"=>"ikan"];
 echo 'Ini hewan : ' .$animals["b"];

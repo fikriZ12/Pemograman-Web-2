@@ -1,4 +1,4 @@
-<?php
+<?php include 'atas.php';
 $nama ="Fikri Ramadan";
 $jurusan = "Sistem Informasi";
 $semester = 2;

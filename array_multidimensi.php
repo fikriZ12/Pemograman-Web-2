@@ -1,5 +1,4 @@
-<?php
-
+<?php include 'atas.php';
 $mahasiswas = [["Anies","TI","8"],["prabowo","SI","9"],["Ganjar","BD","16"]];
 
 foreach ($mahasiswas as $mahasiswa ) {
@@ -8,3 +7,7 @@ foreach ($mahasiswas as $mahasiswa ) {
     echo "Semester : " .$mahasiswa[2] ."<br>";
     echo "<br>";
 }
+?>
+<?php
+include 'bawah.php';
+?>
